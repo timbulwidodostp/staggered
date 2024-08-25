@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p staggered Implementing R staggered package (efficient estimation Under staggered treatment effect timing) based on Roth and Sant'Anna (2021) Use staggered With STATA 18
