@@ -3,6 +3,8 @@ Implementing R staggered package (efficient estimation Under staggered treatment
 
 Implementing R staggered package based on Roth and Sant'Anna (2021) Use staggered With STATA 18
 
+https://www.youtube.com/watch?v=JILFXTT0bVA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
